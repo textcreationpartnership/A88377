@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A lively character of His Maiesties wisdome, in his last answer to the propositions of both kingdomes presented to him at Hampton. Court· As it was set forth in a way of discourse by letter to a person of honour in this kingdome.</title>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88377</idno><idno type="EEBO-CITATION">99862941</idno>
+  <idno type="VID">115121</idno>
+  <idno type="EEBO-PROQUEST">2240940014</idno>
+  
+            <idno type="STC">Wing L2591</idno>
+            <idno type="STC">Thomason E407_32</idno>
+            <idno type="STC">ESTC R202757</idno>
+            <idno type="PROQUEST">99862941</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99862941e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88377)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115121)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E407[32])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A lively character of His Maiesties wisdome, in his last answer to the propositions of both kingdomes presented to him at Hampton. Court· As it was set forth in a way of discourse by letter to a person of honour in this kingdome.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "7ber [i.e. September] 20th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115121:1"/>
+            <pb facs="tcp:115121:1"/>
+            <p>A LIVELY CHARACTER OF HIS MAIESTIES WISDOME, In his last answer to the Proposi<g ref="char:EOLhyphen"/>tions of both Kingdomes presented to him at <hi>Hampton.</hi> COVRT.</p>
+            <p>As it was set forth in a way of discourse by Let<g ref="char:EOLhyphen"/>ter to a person of honour in this Kingdome.</p>
+            <p>Printed in the yeare. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:115121:2"/>
+            <pb n="1" facs="tcp:115121:2"/>
+            <head>A lively Character of his Majesties Wisdome, in his last answer to the Propositions of both Kingdomes presented to him at <hi>Hampton</hi> Court.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>I Know you cannot provide the <hi>Queene</hi> more rationall and pleasing Intelligence, than what I shall represent in this pa<g ref="char:EOLhyphen"/>per unto your Lordship, for that which advances the ho<g ref="char:EOLhyphen"/>nour of His Majesty, and opens a dore of hope unto <hi>Peace</hi> in this tired and distracted Kingd<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me, must needs be acceptable unto <hi>Her</hi> and the <hi>Prince,</hi> who may now ere long receive an ho<g ref="char:EOLhyphen"/>nourable and happy recompence, by a speedy restauration to their hopes in <hi>England,</hi> for that unparallel'd example of con<g ref="char:EOLhyphen"/>stancie and loyalty, which the one as a <hi>Princely Wife,</hi> the other as an Heroique <hi>Prince,</hi> have so nobly maintained in the midst of all misfortunes, unto so gracious a King.</p>
+            <p>The State of affaires in <hi>England</hi> stand thus. After that the <hi>Army</hi> had prevailed so farre as to <hi>triumph</hi> through the <hi>City</hi> in quiet, not a <hi>Dog</hi> of the <hi>adverse party</hi> daring so much as to <hi>bark</hi> a<g ref="char:EOLhyphen"/>gainst them, and that the <hi>Parliament</hi> was <hi>new-modell'd</hi> according to their mind it was necessary then they should set such <hi>proceedings</hi> on foote, as might tend to the satisfaction of all <hi>reasonable</hi> men, in order to the settlement of the peace of the <hi>Kingdome,</hi> that so the <hi>Lawes</hi> might run in their ancient Channell, for the <hi>Liberty of the Subject,</hi> and withall the affections of the people might be freed from this long ingaging in an unnaturall Warre, and returne in
+<pb n="2" facs="tcp:115121:3"/> pious streames of duty and obedience, as becomes <hi>Loyall</hi> Subjects unto their <hi>lawfull</hi> Soveraigne.</p>
+            <p>In order hereunto severall <hi>particulars</hi> were tendered by way of <hi>proposall</hi> from the <hi>Army</hi> among which though some appeare harsh for the <hi>King</hi> to grant, yet considering that the austerity of those may be taken off and moderated upon <hi>Treaty,</hi> the modesty of the rest, with that peremptory <hi>indulgence</hi> conteined in them toward the <hi>King</hi> and his <hi>party,</hi> was a strong inducement to his <hi>Majesty</hi> to insist upon the <hi>Proposalls</hi> of the Army, in order to a finall <hi>Peace</hi> and agreement, rather than the <hi>Propositions</hi> of the Parlia<g ref="char:EOLhyphen"/>ment.</p>
+            <p>But an ingagement lying upon the <hi>Parliament,</hi> according to an agreement betwixt them and the <hi>Scots,</hi> to make a second offer of the <hi>Propositions</hi> to His Majesty, it was judged re<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uisite to per<g ref="char:EOLhyphen"/>forme this, not onely to free themselves from <hi>Scottish</hi> clamours for the future (it being policie to give them as little occasion as may be, who seeke a quarrell) but also thereby to give his <hi>Maje<g ref="char:EOLhyphen"/>sty</hi> an opportunity to wave those <hi>Propositions</hi> by way of answer, and so to fall upon the <hi>Proposalls</hi> of the <hi>Army,</hi> as more suitable to his owne <hi>interest</hi> as also to that of the <hi>Army,</hi> of the <hi>Parliament</hi> in the <hi>mode</hi> it now stands.</p>
+            <p>Hereupon <hi>Commissioners</hi> of both Houses were appointed to joyne with those of the <hi>Scots</hi> to make a second tender of the <hi>Propositi<g ref="char:EOLhyphen"/>ons</hi> of both Kingdomes to his <hi>Majesty</hi> at <hi>Hampton</hi> Court, which was done <hi>Tuesday</hi> September the 7. and on <hi>Thursday</hi> September the 9. his <hi>Majesty</hi> gave such an <hi>answer</hi> as hath mightily quickened the affections of the <hi>Army:</hi> For, They conceiving themselves much obliged by it, the thoughts of mitigation are much revi<g ref="char:EOLhyphen"/>ved toward the <hi>King</hi> and his <hi>party:</hi> And I really beleive that as his <hi>Majesty</hi> may with honour yield unto these following <hi>Propo<g ref="char:EOLhyphen"/>salls,</hi> which he intends first to insist upon by <hi>Treaty</hi> when the <hi>Hou<g ref="char:EOLhyphen"/>ses</hi> and <hi>Army</hi> shall appoint the time, so a cordiall agreement be<g ref="char:EOLhyphen"/>ing first perfected in these, it will be no hard matter to effect a <hi>moderative</hi> reconciliation in the rest.</p>
+            <div type="part">
+               <pb n="3" facs="tcp:115121:3"/>
+               <head>The chief <hi>Propsalls</hi> which concern the <hi>King</hi> and His <hi>Party</hi> are these.</head>
+               <p>AN Act to be passed to take away all coercive power, authority and jurisdiction of Bishops, and all other Ecclesiasticall Officers whatsoever, extending to any civill penalties u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on any, and to <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>pea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> all lawes whereby the Civill Magistracy hath been, or is bound▪ upon any Ecclesiasticall c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nsure to proceed <hi>(ex Officio)</hi> unto any civill penalties against any persons so censured.</p>
+               <p n="2">II. That there be a repeal of all Acts, or Clauses in any Act, enjoy<g ref="char:EOLhyphen"/>ning the use of the Book of Common Prayer, and imposing any pe<g ref="char:EOLhyphen"/>nalties for neglect thereof, as also of all Acts o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Clauses in any Act, imposing any penalties for not coming to Church, or for meetings else<g ref="char:EOLhyphen"/>where, for Prayer or other religious duties, exercises or Ordinances, and some other provision to be made for discovering of Papists, and Popish Recusants, and for disabling of them, and all Jesuites or Priests, from disturbing the State.</p>
+               <p n="3">III That the taking of the Covenant be not inforced upon any nor any penalties imposed upon the Refusers, whereby men might be constrained to take it against their judgements, or consciences, but all Orders, or Ordinances, tending to that purpose to be repealed.</p>
+               <p n="4">IIII That the things here before proposed being provided for set<g ref="char:EOLhyphen"/>ling and securing the Rights, liberty, Peace, and safety of the King<g ref="char:EOLhyphen"/>dome, His Majesties Person, His Queen, and Royall issue, may be restored to a condition of safety, Honour, and freedome in this Nati<g ref="char:EOLhyphen"/>on, without diminution to their personall Rights, or further limitati<g ref="char:EOLhyphen"/>on to the exercise of the Regall power then according to the particul<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s aforegoing.</p>
+               <p n="5">V. That a lesse number out of the persons excepted in the two first qualifications not exceeding five for the <hi>English</hi>) being <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>a<g ref="char:EOLhyphen"/>ted particularly by the Parliament, who (together with the persons in the <hi>Irish</hi> Rebellion, in the third qualification,) may be reserved t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the further judgement of the Parliame<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, as th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y shall <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ad <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>u<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, All other excepted persons may be remitted from the exception, and admit<g ref="char:EOLhyphen"/>ted to Composition.</p>
+               <p n="6">
+                  <pb n="4" facs="tcp:115121:4"/>VI That the rates for all future Compositions may be lessened and limited, not to exceed the severall proportions hereafter exprest re<g ref="char:EOLhyphen"/>spectively: that is to say. 1 For all persons formerly excepted not a<g ref="char:EOLhyphen"/>bove a third part. 2 For the late members of Parliament, under the first branch of the fourth qualification in the Propositions, a fourth part. 3. For other Members of Parliament in the second and third branches of the same qualification a sixth part. 4 for the persons no<g ref="char:EOLhyphen"/>minated in the said fourth qualification, and those included in the tenth qualification, an eighth part. 5 For all other included in the sixth qua<g ref="char:EOLhyphen"/>lification, a tenth part. And that reall debts either upon record, or proved by witnesses, be considered, and abated in the valuation of their estates in all the cases aforesaid.</p>
+               <p n="7">VII. That those who shall hereafter come to compound, may not have the Covenant put upon them, as a condition without which they may not compound, but in case they shall not willingly take it they may passe their compositions without it.</p>
+               <p n="8">VIII. That the Persons and estates of all English, not worth two hundred pounds in Lands or Goods be at Liberty, and discharged. And that the Kings meniall Servants that never took up armes, but one<g ref="char:EOLhyphen"/>ly attended His Person according to their Offices, may be freed from Composition, or to pay (at most) but the proportion of one yeares Revenue or a twentieth part.</p>
+               <p n="9">IX That in order to the making and perfecting of Compositions at the rates aforesaid, the Rents, Revenues, and other dues and pro<g ref="char:EOLhyphen"/>fits of all sequestred Estates whatsoever (except the Estates of such persons who shall be continued under exception as before) be from henceforth suspended and detained in the hands of the respective te<g ref="char:EOLhyphen"/>nants, occupants and others, from whom they are due, for the space of six moneths following.</p>
+               <p n="10">X That the Faith of the Army, or other Forces of the Parliament given in Articles upon surrender to any of the Kings party may be ful<g ref="char:EOLhyphen"/>ly made good and where any breach thereof shall appeare to have been made, full reparation and satisfaction may be given to the parties injured, and the persons offending (being found out may be com<g ref="char:EOLhyphen"/>pelled thereto.</p>
+               <p n="11">XI. That there may be a generall act of oblivion to extend unto
+<pb n="5" facs="tcp:115121:4"/> all except the persons to be continued in exception as before) to ab<g ref="char:EOLhyphen"/>so<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve from all Trespasses, Misdemeanours, &amp;c. done in prosecution of the Warre, and from all trouble or prejudice for or concerning the same and to restore them to all priviledges, &amp;c. belonging to other Subjects provided, as in the fourth particular under the second generall head aforegoing concerning security.</p>
+               <p n="12">XII. And whereas there have beene of late strong indeavours and practices of a factious and desperate party, to imbroyle this Kingdome in a new Warre, and for that purpose to induce the King, the Queene, and Prince, to declare for the said party, and a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>so to excite and stirre up all those of the Kings late party to ap<g ref="char:EOLhyphen"/>peare and ingage for the same, which attempts and designes, ma<g ref="char:EOLhyphen"/>ny of the Kings party, (out of a desire to avoyd further misery to the Kingdom,) have cōtributed their indeavours to prevent, (as for divers of them we have had particular assurance,) we doe therefore desire that such of the Kings party who shall appeare to have expres<g ref="char:EOLhyphen"/>sed and shall hereafter expresse that way their good affections to the peace and welfare of the Kingdom, and to hinder the imbroyling of the same in a new warre, may be freed and exempted from com<g ref="char:EOLhyphen"/>position, or to pay but one years Revenue or a twentieth part.</p>
+               <p>These are the <hi>particulars</hi> which his <hi>Majesty</hi> principally aimes at: And therefore his late answer to the <hi>Commissioners</hi> of Parliament was to this effect; That as touching the <hi>Propositions</hi> now presented to him he conceived them little differing from the former presen<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> him at <hi>Newcastle,</hi> whereunto he cannot without manifest viola<g ref="char:EOLhyphen"/>tion of <hi>honour</hi> and <hi>Conscience</hi> give the <hi>Royall assent;</hi> nor would the <hi>Interests</hi> of the Army and others be in them so well provided for in order to <hi>Peace,</hi> as to render it satisfactory and lasting; His <hi>Majesty</hi> therfore wishes rather, that the <hi>Proposalls</hi> of the Army might be in<g ref="char:EOLhyphen"/>sisted on to that end, as being farre more <hi>reasonahle,</hi> and that <hi>Com<g ref="char:EOLhyphen"/>missioners</hi> from the <hi>Parliament</hi> &amp; <hi>Commissioners</hi> from the <hi>Army</hi> may be sent to <hi>Treate</hi> with him upon those <hi>Proposalls,</hi> supposing it the only ready way to a firme Peace.</p>
+               <p>This <hi>answer</hi> is extreamely applauded in the <hi>Army,</hi> nor can it be more pleasing to them, than it appeares admirable to me, who doe looke upon it as the most eminent evidence of his Majesties
+<pb n="6" facs="tcp:115121:5"/> great <hi>wisdome</hi> and <hi>pollicie:</hi> For, in this one answer he hath ex<g ref="char:EOLhyphen"/>ceedingly pleased them: in whose power he is, and besides, plaid the game so well, that first, he hath very handsomly and subtilly diminished the honour of the <hi>Parliament</hi> in joyning their <hi>Army</hi> equall with them in the <hi>Treaty</hi> propounded, which if the <hi>Parlia<g ref="char:EOLhyphen"/>ment</hi> shall not yield to, it will be a meanes to divide them and the <hi>Army:</hi> And secondly, by wholly leaving out the <hi>Scots</hi> in this <hi>trea<g ref="char:EOLhyphen"/>ty</hi> (wherein it is the <hi>interest</hi> of the Army, and indeed the true In<g ref="char:EOLhyphen"/>terest of <hi>England</hi> to second his <hi>Majesty</hi>) he hath put the <hi>Parlia<g ref="char:EOLhyphen"/>ment</hi> upon a necessity of discontenting the <hi>Army,</hi> if they shall not consent to <hi>treat</hi> without the <hi>Scots:</hi> And againe on the other side, if they doe Treate without them, then the <hi>brotherly union</hi> will be broken betwixt the <hi>Parliament</hi> and the <hi>Scot.</hi> And this <hi>(my Lord)</hi> I conceive to be the reach of his <hi>Majesties answer</hi> to the <hi>Proposi<g ref="char:EOLhyphen"/>tions,</hi> wherein (if I be not mistaken) he hath manifested himselfe as wise a <hi>Prince,</hi> as ever was instructed by adversity.</p>
+               <closer>Till the next <hi>returne</hi> and ever I am;
+<salute>My Lord,</salute>
+                  <signed>Your honours most humble servant.</signed>
+                  <dateline>
+                     <date>September 16. 1647.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
